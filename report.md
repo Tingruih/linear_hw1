@@ -46,11 +46,11 @@ document.addEventListener("DOMContentLoaded", function() {
   </div>
   <div class="cover-authors">
     組員：<br>
-    陳煥文 411487038  
+    陳煥文 411487038  <br>
     林玨安 411487046 <br>
-    黃柏崴 411485042 
+    黃柏崴 411485042 <br>
     胡庭睿 411485003 <br>
-    蘇星丞 411485018 
+    蘇星丞 411485018 <br>
     吳翟   411085040 <br>
   </div>
 </div>  
